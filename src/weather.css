@@ -1,0 +1,12 @@
+.weather{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+}
+.weather img{
+    width: 80px;
+    height: 80px;
+}
+.min {
+    color: blue;
+    padding-left: 10px;
+}

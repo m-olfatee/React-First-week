@@ -1,0 +1,31 @@
+section {
+    width: 40vw;
+    background: rgb(194, 194, 194);
+    margin: 0 auto;
+    color: #ddd;
+    padding: 1%;
+
+}
+article {
+    width: 38vw;
+    margin: 0 auto;
+    background-color: #222;
+    border: 2px solid white;
+}
+.question {
+    display: flex;
+    justify-content: space-between;
+    margin: 0% 2%;
+    align-items: center;
+}
+.answer {
+    justify-content: space-between;
+    margin: 0% 2%;
+    align-items: center;
+    border-top: 1px solid #ddd;
+}
+p {
+    display: none;
+    text-align: left;
+    padding: 2%;
+}

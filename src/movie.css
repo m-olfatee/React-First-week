@@ -1,0 +1,13 @@
+.movie{
+    display: grid;
+    grid-template-columns: repeat(5, 19%);
+    margin: 1% 5%; 
+    gap: 1%;
+      
+}
+.article {
+    border: 1px solid black;
+    background-color: #444444;
+    color: bisque;
+}
+

@@ -1,0 +1,25 @@
+
+.todo {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.article {
+    border: 1px solid black;
+    margin: 2%;
+    width: 200px;
+ 
+}
+.article div {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 2% auto;
+}
+.true {
+    background-color: green;
+}
+.false {
+    background-color: red;
+}
